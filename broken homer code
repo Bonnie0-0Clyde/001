@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+		</title>Something is wrong with this page title<title> <--this comment needs help -->
+
+			<style> body { background-color: pink</style>  <!-- there is something wrong with this style tag-->
+	<body>
+
+
+	</head><!-- something is wrong with the placement of this tag -->
+
+	
+	
+		<h1>This headline is confused</h2>
+
+		
+		Remembering all this stuff can give you a headache...but there's something missing in this element
+
+		
+		<p><strong>This is not how you nest tags correctly</p></strong>
+
+		
+		<em>Bad things happen when you forget to close a tag, such as italicized text in places you don't want it!<em>
+
+
+		<ul>
+			<li>This bullet is fine</li>
+			<li>This bullet is also fine</li>
+		</ol><!-- something is wrong here -->
+
+
+		
+		<image source "pics/homer.jpg">
+		
+
+		<!-- the above image will work if you can fix the first part of the code PLUS is the image correct?  Check your folders -->
+
+		
+		<a link="http://www.w3schools.com/">This link doesn't work; look closely</a>
+
+		
+
+
+	</body>
+
+		<p>Who put this here? move it to where it belongs</p>
+
+
+</HTML><!-- something is wrong with this tag -->
+
